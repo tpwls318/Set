@@ -1,0 +1,14 @@
+{
+  "name": "Set",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tpwls318/Set.git",
+  "author": "Park",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.14",
+    "react-router-dom": "^6.9.0"
+  }
+}
